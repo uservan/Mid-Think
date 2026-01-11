@@ -1,5 +1,7 @@
 # Mid-Think
 
+ ![Overview of Mid-Think](pics/overview.png)
+
 ## Run Experiments
 - run the experiments of attnetion on trigger tokens, please go to collect/collect_think_attn.py
 - run the experiments of Mid-Think on different models
