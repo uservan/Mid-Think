@@ -20,3 +20,6 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+collect/collect_think_budget_all.sh
+collect/generate_budget_think.sh
